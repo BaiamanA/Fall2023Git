@@ -1,2 +1,4 @@
-package lesson3;public class proverca {
+package lesson3;
+
+public class proverca {
 }
